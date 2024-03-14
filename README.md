@@ -7,6 +7,7 @@ This Python program uses OpenCV for face detection and recognition to create a s
 - Python 3
 - OpenCV (`pip install opencv-python`)
 - NumPy (`pip install numpy`)
+- MediaPipe (`pip install mediapipe`)
 
 ## Usage
 
